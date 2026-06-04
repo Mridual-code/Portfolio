@@ -1,0 +1,83 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #1e3a8a;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #fbbf24;
+}
+
+/* Hero Section */
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #2563eb;
+    color: white;
+}
+
+/* Sections */
+section {
+    padding: 40px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* Projects */
+article {
+    background-color: #eef2ff;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+/* Contact Button */
+button {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1e40af;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #1e3a8a;
+    color: white;
+}
