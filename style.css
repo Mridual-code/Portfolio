@@ -88,7 +88,26 @@ header img{
     margin-bottom:20px;
 }
 .dark-mode {
-    background-color: black;
+    background-color: #121212;
+    color: white;
+}
+
+.dark-mode section {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+.dark-mode nav {
+    background-color: #222;
+}
+
+.dark-mode footer {
+    background-color: #222;
+    color: white;
+}
+
+.dark-mode article {
+    background-color: #333;
     color: white;
 }
 html {
